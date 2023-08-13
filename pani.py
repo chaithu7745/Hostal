@@ -1,0 +1,2 @@
+a='suresh'
+print(a)
